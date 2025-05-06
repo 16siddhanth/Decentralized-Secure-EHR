@@ -85,6 +85,8 @@ npm start
 ```
 This will start the frontend server and make your application accessible.
 
+---
+
 ###⚠️ Note: 
 
 If you face any issues while starting the application or during installation, it may be due to an incompatible Node.js version.
