@@ -43,7 +43,7 @@ The project uses blockchain, smart contracts(solidity) and web3 features to let 
 
 - Open your project folder.
 - **Delete** the following if they exist:
-  - `node_modules directory`
+  - `node_modules` directory
   - `package-lock.json`
 
 ---
