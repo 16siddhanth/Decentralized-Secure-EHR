@@ -7,7 +7,7 @@ import {
   faLinkedinIn,
 } from "@fortawesome/free-brands-svg-icons";
 
-library.add(faInstagram, faFacebookF, faLinkedinIn);
+library.add(faInstagram, faGithub, faLinkedinIn);
 
 function App() {
   return (
