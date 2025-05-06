@@ -87,7 +87,7 @@ This will start the frontend server and make your application accessible.
 
 ---
 
-###⚠️ Note: 
+⚠️ Note: 
 
 If you face any issues while starting the application or during installation, it may be due to an incompatible Node.js version.
 To avoid this, make sure you are using Node.js version 18.20 . You can switch to version 18 using nvm (Node Version Manager) by running the following commands:
