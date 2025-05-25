@@ -3,7 +3,7 @@ import BrowseRouter from "./BrowseRouter";
 import { library } from "@fortawesome/fontawesome-svg-core";
 import {
   faInstagram,
-  faFacebookF,
+  faGithub,
   faLinkedinIn,
 } from "@fortawesome/free-brands-svg-icons";
 
