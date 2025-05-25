@@ -7,7 +7,7 @@ function ViewPatientList() {
       <NavBar_Logout />
       <div className="bg-gradient-to-b from-black to-gray-800 text-white p-10 font-mono">
         <p className="text-center text-2xl">
-          For Full complete project code kindly contact me: sonupradhan208@gmail.com
+          Patient list will be displayed here.
         </p>
       </div>
     </div>
