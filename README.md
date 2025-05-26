@@ -1,5 +1,5 @@
 # Decentralized-Secure-EHR
-The project uses blockchain, smart contracts(solidity) and web3 features to let patients and healthcare providers manage and secure their health data. 
+The project uses blockchain, smart contracts(solidity), ZKP, ERC4337 and web3 features to let patients and healthcare providers manage and secure their health data. 
 # Deployment and Running Instructions
 
 &nbsp;
